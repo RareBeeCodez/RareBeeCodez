@@ -7,4 +7,7 @@
 - ⚡ Fun Fact: I am acually 14
 
 ## Tools I use to code
-[<img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d494d/topics/visual-studio-code/visual-studio-code.png" />]
+Visual Studio Code, Android Studio, Xcode
+
+## Coding Languages
+JavaScript(First coding language), Python, Java (Learning), Kotlin (Learning), HTML and CSS
